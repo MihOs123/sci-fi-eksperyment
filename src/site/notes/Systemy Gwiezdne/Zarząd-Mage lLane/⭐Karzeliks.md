@@ -28,6 +28,7 @@ Podatki: 1
 | **Uniwersytet** (Pozwala badać)                                                | ❎                                        |
 | **Stacja Badawcza** +📗                                                        | ❎                                        |
 | **Silosy**-♿ [Magazyn 50]                                                      | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
+
 Notatki:
 Grzybowe pustkowie...
 
