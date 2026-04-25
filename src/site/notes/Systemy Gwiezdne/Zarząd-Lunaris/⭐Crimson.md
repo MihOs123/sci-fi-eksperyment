@@ -30,7 +30,7 @@ Notatki:
 Magnetyczny ognik...
 ### Planeta: Galand
 Wielkość: 2
-Populacja: 5x🟤 3x🥺 1x👄
+Populacja: 5x🟤 2x🥺 1x👄
 Podatki: 1
 
 | CECHY I BUDOWLE                 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |

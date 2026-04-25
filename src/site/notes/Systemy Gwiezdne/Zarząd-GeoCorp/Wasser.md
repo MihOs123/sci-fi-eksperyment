@@ -14,7 +14,7 @@ Zarządca: Geodezja Corp-♿
 |            Gwiezdny Wiatr[🟨]            |         **Stacja Górnicza** +1🟥         |             Pusta Przestrzeń             |
 |           Solarne Burze[🟨🟨]            |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
 ### Floty
-
+FLOTA Ameb (k4)-♿
 ### Planeta S-411-C
 Wielkość: 4
 Populacja: x⚪

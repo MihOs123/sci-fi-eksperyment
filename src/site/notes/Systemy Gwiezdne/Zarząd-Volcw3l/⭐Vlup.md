@@ -30,7 +30,7 @@ Notatki:
 Geotermalny ognik...
 ### Hobralyda
 Wielkość: 5
-Populacja: 13x🥺
+Populacja: 12x🥺
 Podatki: 1
 
 | CECHY I **BUDOWLE**             | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
