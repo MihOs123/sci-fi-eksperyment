@@ -17,21 +17,21 @@ Zarządca: Pussriders-👄
 
 ### Planeta Cockpit
 Wielkość: 5
-Populacja: 12x👄 2x🛡 1x❎ 3x⚪ 2x🟤
+Populacja: 13x👄 2x🛡 1x⚪ 2x🟤
 Podatki: 1
 
 | CECHY I **BUDOWLE**             | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | :------------------------------ | :--------------------------------------- |
 | **Stacja Badawcza** +1📘        | 👄                                       |
-| **Kopalnie** +P🟥               | ❎👄👄⚪🟤                                 |
+| **Kopalnie** +P🟥               | 👄👄👄⚪🟤                                |
 | **Fabryka**-♿ +P🔷 -P🟥         | 👄👄👄                                   |
 | **Przetwórnia Metali**-🛡 +P🔶  | 👄👄🛡🛡🟤                               |
-| **Kopalnie**-🛡 +P🟥            | 👄👄👄⚪⚪                                 |
+| **Kopalnie**-🛡 +P🟥            | 👄👄👄                                   |
 | **Uniwersytet** (Pozwala badać) | 👄                                       |
 Największe znane złoża uranu...
 ### Planeta Slayyyter
 Wielkość: 4
-Populacja: 5x👄
+Populacja: 4x👄
 Podatki: 1
 
 | CECHY I **BUDOWLE**  | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |

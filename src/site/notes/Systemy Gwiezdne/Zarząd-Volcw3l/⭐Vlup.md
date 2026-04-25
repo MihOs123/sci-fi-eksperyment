@@ -14,7 +14,7 @@ Zarządca: Volcw3l-🥺
 |     **Rój Paneli Słonecznych** +1🟨      |              **Posterunek**              |       **Stacja Górnicza**-🛡️ +1🟥       |
 |       **Wielka Stacja Nasłuchowa**       |          **Mała Brama Skokowa**          |               **Stocznia**               |
 ### Floty
-FLOTA Konstrukcyjna-♿
+
 ### Gabboth
 Wielkość: 2
 Populacja: 6x🥺

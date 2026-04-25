@@ -14,7 +14,7 @@ Zarządca: Geodezja Corp-♿
 |            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
 |           Solarne Burze[🟨🟨]            |            Chmura Gazów[🟨🟨]            |          Depozyt Minerałów[🟥]           |
 ### Floty
-
+FLOTA Konstrukcyjna-♿
 ### Planeta: Gestein
 Wielkość: 2
 Populacja: 2x🥺

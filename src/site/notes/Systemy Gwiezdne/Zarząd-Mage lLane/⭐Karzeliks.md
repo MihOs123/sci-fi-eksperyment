@@ -18,7 +18,7 @@ Zarządca: Mage lLane-❎
 
 ### Planeta: Zzyzyn
 Wielkość: 3
-Populacja: 7x❎
+Populacja: 6x❎
 Podatki: 1
 
 | CECHY I BUDOWLE                                                                | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
