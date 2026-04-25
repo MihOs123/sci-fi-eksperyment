@@ -14,7 +14,6 @@ Zarządca: Mage lLane-❎
 |         **Stacja Badawcza** +2📘         |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
 |         **Stacja Badawcza** +2📘         |       Duży Depozyt Minerałów[🟥🟥]       |             Pusta Przestrzeń             |
 ### Floty
-FLOTA Naukowa-❎
 FLOTA Konstrukcyjna-❎
 ### Planeta: G-166-C
 Wielkość: 4

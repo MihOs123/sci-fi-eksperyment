@@ -17,7 +17,7 @@ Zarządca: Pussriders-👄
 
 ### Planeta Cockpit
 Wielkość: 5
-Populacja: 12x👄 2x🛡 1x❎ 5x⚪
+Populacja: 12x👄 2x🛡 1x❎ 3x⚪ 2x🟤
 Podatki: 1
 
 | CECHY I **BUDOWLE**             | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
