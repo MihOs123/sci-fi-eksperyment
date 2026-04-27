@@ -17,13 +17,13 @@ Zarządca: Geodezja Corp-♿
 FLOTA Konstrukcyjna-♿
 ### Planeta: Gestein
 Wielkość: 2
-Populacja: 2x🥺
+Populacja: 3x🥺
 Podatki: 1
 
 | CECHY I BUDOWLE     | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | :------------------ | :--------------------------------------- |
 | Rzeki Magmy[🟥/🔶]  | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
-| **Kopalnie** +P🟥   | 🥺🥺                                     |
+| **Kopalnie** +P🟥   | 🥺🥺🥺                                   |
 | Złoża Minerałów[🟥] | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | Złoża Metali[🔶]    | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 

@@ -28,7 +28,7 @@ Podatki:
 | Złoża Minerałów[🟥]      | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 ### Planeta: Hatiusz
 Wielkość: 4
-Populacja: 4x🥺
+Populacja: 5x🥺
 Podatki: 1
 
 | CECHY I **BUDOWLE**            | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |

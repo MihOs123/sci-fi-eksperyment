@@ -17,7 +17,7 @@ Zarządca: Lunaris-🦇
 
 ### Planeta: Infra
 Wielkość: 3
-Populacja: 2x🛡️ 3x🟤 1x🟠
+Populacja: 3x🛡️ 2x🟤 1x🟠 1x🥺
 Podatki: 1
 
 | CECHY I BUDOWLE                 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
@@ -25,17 +25,17 @@ Podatki: 1
 | **Stacja Badawcza** +1📘        | 🛡️                                      |
 | **Stacja Badawcza** +1📕        | 🟤                                       |
 | **Huta Metali** +P🔶 -P🟥       | 🟤                                       |
-| **Przetwórnia Metali**-🛡️ +P🔶 | 🟤🟠🛡️                                  |
+| **Przetwórnia Metali**-🛡️ +P🔶 | 🛡️🟠🛡️                                 |
 Notatki:
 Magnetyczny ognik...
 ### Planeta: Galand
 Wielkość: 2
-Populacja: 5x🟤 2x🥺 1x👄
+Populacja: 5x🟤 2x🥺
 Podatki: 1
 
 | CECHY I BUDOWLE                 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | :------------------------------ | :--------------------------------------- |
-| **Region Górniczy** +2xP🟥      | 👄🟤                                     |
+| **Region Górniczy** +2xP🟥      | 🥺🟤                                     |
 | **Elektrownie** +P🟨            | 🥺🟤                                     |
 | **Stacja Badawcza**-♿ +1📗      | 🟤                                       |
 | **Farmy Grzybów** +P🟩          | 🥺🟤                                     |

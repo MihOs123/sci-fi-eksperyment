@@ -17,7 +17,7 @@ Zarządca: Volcw3l-🥺
 
 ### Gabboth
 Wielkość: 2
-Populacja: 6x🥺
+Populacja: 7x🥺
 Podatki: 1
 
 | CECHY I **BUDOWLE**           | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
@@ -30,7 +30,7 @@ Notatki:
 Geotermalny ognik...
 ### Hobralyda
 Wielkość: 5
-Populacja: 12x🥺
+Populacja: 14x🥺
 Podatki: 1
 
 | CECHY I **BUDOWLE**             | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
