@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/systemy-gwiezdne/zarzad-biss-mark/centuria/","dg-note-properties":{}}
 ---
 
-Sąsiedzi: [[Systemy Gwiezdne/Zarząd-BissMark/E-556\|E-556]] [[Systemy Gwiezdne/Zarząd-BissMark/Saskia\|Saskia]] [[Systemy Gwiezdne/Zarząd-BissMark/⭐E-282\|⭐E-282]] [[Systemy Gwiezdne/Niezbadane Systemy/E-263\|E-263]]
+Sąsiedzi: [[Systemy Gwiezdne/Zarząd-BissMark/E-556\|E-556]] [[Systemy Gwiezdne/Zarząd-BissMark/Saskia\|Saskia]] [[Systemy Gwiezdne/Zarząd-BissMark/⭐E-282\|⭐E-282]] [[Systemy Gwiezdne/Zarząd-BissMark/E-263\|E-263]]
 Władza: Rzeczpospolita Ludzkości
 Zarządca: Biss-Mark Inc-🛡️
 ![Gwiazda-Czerwona.png](/img/user/Obrazy/Gwiazda-Czerwona.png) ![Planeta-zZyciem.png](/img/user/Obrazy/Planeta-zZyciem.png) ![Planeta-Toksyczna.png](/img/user/Obrazy/Planeta-Toksyczna.png)
@@ -14,7 +14,7 @@ Zarządca: Biss-Mark Inc-🛡️
 |            Gwiezdny Wiatr[🟨]            |          Depozyt Minerałów[🟥]           |             Pusta Przestrzeń             |
 |            Gwiezdny Wiatr[🟨]            |          Depozyt Minerałów[🟥]           |          Depozyt Minerałów[🟥]           |
 ### Floty
-FLOTA Naukowa-🛡
+
 ### Planeta: Centuria-B
 Wielkość: 2
 Populacja: x⚪
