@@ -17,7 +17,7 @@ Zarządca: Biss-Mark Inc-🛡️
 
 ### Planeta: Choth
 Wielkość: 2
-Populacja: 3x🛡️
+Populacja: 2x🛡️
 Podatki: 1
 
 | CECHY I BUDOWLE                 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
