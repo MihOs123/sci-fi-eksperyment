@@ -14,7 +14,7 @@ Zarządca: Lunaris-🦇
 |            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
 |            Gwiezdny Wiatr[🟨]            |         Duży Depozyt Gazów[🟨🟨]         |            Chmura Gazów[🟨🟨]            |
 ### Floty
-FLOTA Naukowa-🦇
+
 
 
 

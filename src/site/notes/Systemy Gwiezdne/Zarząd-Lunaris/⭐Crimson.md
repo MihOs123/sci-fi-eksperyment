@@ -12,7 +12,7 @@ Zarządca: Lunaris-🦇
 |                  Carmen                  |                  Infra                   |                  Galand                  |
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 |    **Rój Paneli Słonecznych**-♿ +1🟨     |              **Posterunek**              |          **Mała Brama Skokowa**          |
-|            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
+|            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |   **Port Kosmiczny** +1🔷 [Magazyn 50]   |
 ### Floty
 
 ### Planeta: Infra
