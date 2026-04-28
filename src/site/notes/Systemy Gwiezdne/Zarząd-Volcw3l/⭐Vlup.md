@@ -11,8 +11,8 @@ Zarządca: Volcw3l-🥺
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   Vlup                   |                 Gabboth                  |                Hobralyda                 |
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
-|     **Rój Paneli Słonecznych** +1🟨      |              **Posterunek**              |       **Stacja Górnicza**-🛡️ +1🟥       |
-|       **Wielka Stacja Nasłuchowa**       |          **Mała Brama Skokowa**          |               **Stocznia**               |
+|     **Rój Paneli Słonecznych** +1🟨      |            **Posterunek**❗❗❗             |       **Stacja Górnicza**-🛡️ +1🟥       |
+|       **Wielka Stacja Nasłuchowa**       |          **Mała Brama Skokowa**          |             **Stocznia**❗❗❗              |
 ### Floty
 
 ### Gabboth
