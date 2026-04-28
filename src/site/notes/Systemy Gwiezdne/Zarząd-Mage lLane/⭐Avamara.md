@@ -17,7 +17,7 @@ Zarządca: Mage lLane-❎
 FLOTA Konstrukcyjna-❎
 ### Planeta: Bartloma
 Wielkość: 4
-Populacja: 4x❎ 1x🥺
+Populacja: 5x❎
 Podatki: 1
 
 | CECHY I **BUDOWLE**   | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |

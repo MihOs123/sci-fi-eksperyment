@@ -14,7 +14,11 @@ Zarządca: Mage lLane-❎
 |            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |               **Stocznia**               |
 |            Gwiezdny Wiatr[🟨]            |            Depozyt Gazów[🟨]             |          Depozyt Minerałów[🟥]           |
 ### Floty
-
+FLOTA Wojskowa-♿ (1)
+FLOTA Wojskowa-♿ (1)
+FLOTA Wojskowa (k4-1)-🥺
+FLOTA Ameb (k4-1)-🥺
+FLOTA Ameb (k4)-🥺
 ### Planeta: S-551-C
 Wielkość: 4
 Populacja: x⚪

@@ -14,12 +14,6 @@ Zarządca: Volcw3l-🥺
 |            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |        **Stacja Obronna (k4)**-♿         |
 |            Gwiezdny Wiatr[🟨]            |        **Stacja Wydobywcza** +2🟨        |             Pusta Przestrzeń             |
 ### Floty
-FLOTA Wojskowa-♿ (1)
-FLOTA Wojskowa-♿ (1)
-
-FLOTA Wojskowa (k4-1)-🥺
-FLOTA Ameb (k4-1)-🥺
-FLOTA Ameb (k4)-🥺
 FLOTA Wojskowa (k4)-👄
 ### Planeta: Libera-C
 Wielkość: 3
