@@ -14,7 +14,7 @@ Zarządca: Mage lLane-❎
 |            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
 |            Gwiezdny Wiatr[🟨]            |       Duży Depozyt Minerałów[🟥🟥]       |            Depozyt Gazów[🟨]             |
 ### Floty
-FLOTA Naukowa-❎
+
 ### Planeta: H-272-B
 Wielkość: 3
 Populacja: x⚪
