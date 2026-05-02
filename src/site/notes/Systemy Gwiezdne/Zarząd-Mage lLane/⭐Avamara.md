@@ -17,7 +17,7 @@ Zarządca: Mage lLane-❎
 
 ### Planeta: Bartloma
 Wielkość: 4
-Populacja: 6x❎
+Populacja: 1x⚪ 5x❎
 Podatki: 1
 
 | CECHY I **BUDOWLE**   | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |

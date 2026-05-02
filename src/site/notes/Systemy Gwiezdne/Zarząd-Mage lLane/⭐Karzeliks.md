@@ -18,12 +18,12 @@ Zarządca: Mage lLane-❎
 
 ### Planeta: Zzyzyn
 Wielkość: 3
-Populacja: 8x❎
+Populacja: 4x⚪ 4x❎
 Podatki: 1
 
 | CECHY I BUDOWLE                                                                | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | :----------------------------------------------------------------------------- | :--------------------------------------- |
-| **Farmy** +P🟩                                                                 | ❎❎❎                                      |
+| **Farmy** +P🟩                                                                 | ❎⚪⚪                                      |
 | **Kompleks Nauk Medycznych** [+1 Dobrobyt per populacja planety na koniec gry] | ❎                                        |
 | **Uniwersytet** (Pozwala badać)                                                | ❎                                        |
 | **Stacja Badawcza** +📗                                                        | ❎                                        |
@@ -31,6 +31,6 @@ Podatki: 1
 
 Notatki:
 Grzybowe pustkowie...
-
+Przemoc polityczna.
 
 

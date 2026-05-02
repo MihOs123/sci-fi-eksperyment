@@ -9,13 +9,13 @@ Zarządca: Międzygwiazdówka-🟠
 
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-|                 S-939-A                  |                 S-939-B                  |                 S-939-C                  |
+|               Marksengels                |                  Marks                   |                  Engels                  |
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 |            Gwiezdny Wiatr[🟨]            |          Depozyt Minerałów[🟥]           |              **Posterunek**              |
 |            Gwiezdny Wiatr[🟨]            |             Pusta Przestrzeń             |             Pusta Przestrzeń             |
 ### Floty
 FLOTA Wojskowa (k4)-🟠
-### Planeta: S-939-B
+### Planeta: Marks
 Wielkość: 1
 Populacja: 1x🟠
 Podatki: 1
@@ -25,7 +25,7 @@ Podatki: 1
 | **Huta Metali** +P🔶 -P🟥      | 🟠                                       |
 | Głębokie Złoża Minerałów[🟥🟥] | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | Głębokie Złoża Minerałów[🟥🟥] | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
-### Planeta: S-939-C
+### Planeta: Engels
 Wielkość: 4
 Populacja: 4x🟠
 Podatki: 1
