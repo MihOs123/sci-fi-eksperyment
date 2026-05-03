@@ -30,6 +30,7 @@ Notatki:
 Dzika planeta...
 Limit populacji: 3
 Planeta Naukowa: Zakaz budowli produkujących oprócz tej jednej przetwórni
+Ochrona Czerwonych Beretów, szkolenia lojalnościowe
 ### Planeta Tahn Volet
 Wielkość: 4
 Populacja: x⚪

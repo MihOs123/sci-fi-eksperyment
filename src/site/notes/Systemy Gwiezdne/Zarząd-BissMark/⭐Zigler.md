@@ -26,8 +26,9 @@ Podatki: 1
 | **Uniwersytet** (Pozwala badać) | 🛡️                                      |
 | Podlodowa Biosfera[📗][🟩]      | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | Podlodowa Biosfera[📗][🟩]?     | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
+
 Notatki:
 Podlodowy ocean życia...
-
+Ochrona Czerwonych Beretów, szkolenia lojalnościowe
 
 

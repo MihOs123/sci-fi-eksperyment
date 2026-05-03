@@ -30,7 +30,6 @@ Podatki: 1
 | Złoża Gazów[🟨🟨]                   | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | **Resorty Metalicznego Morza** +P🔷 | 🛡️                                      |
 | Płodne Równiny[🟩🟩]                | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
+
 Notatki: Raj zapomnianych kosmitów...
-
-
-
+Ochrona Czerwonych Beretów, szkolenia lojalnościowe
