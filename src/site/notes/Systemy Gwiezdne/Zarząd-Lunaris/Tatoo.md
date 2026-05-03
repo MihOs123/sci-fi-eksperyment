@@ -14,5 +14,5 @@ Zarządca: Lunaris-🦇
 |           Solarne Burze[🟨🟨]            |           Solarne Burze[🟨🟨]            |             Pusta Przestrzeń             |
 |            Gwiezdny Wiatr[🟨]            |            Gwiezdny Wiatr[🟨]            |         **Stacja Górnicza** +1🟥         |
 ### Floty
-FLOTA Konstrukcyjna-🦇
+
 

@@ -29,7 +29,7 @@ Podatki: 1
 
 Notatki:
 Magnetyczny ognik...
-Przemoc polityczna.
+Przemoc polityczna. Bojówki Ziemskiej Restoracji.
 ### Planeta: Galand
 Wielkość: 2
 Populacja: 1x⚪ 4x🟤 3x🥺
@@ -45,7 +45,7 @@ Podatki: 1
 
 Notatki:
 Mała Ziemia...
-Przemoc polityczna.
+Przemoc polityczna. Bojówki Ziemskiej Restoracji.
 
 
 
